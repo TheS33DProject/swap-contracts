@@ -20,4 +20,9 @@ Dependencies require `node@=12`.
 
 ## Deployed Contract/Hash
 
-0x0c334Cc952135CEd1417059f6c9D5F79a4819Ac3
+
+### Testnet First Run
+S33DFactory: 0x0c334Cc952135CEd1417059f6c9D5F79a4819Ac3
+
+### Testnet Final Run
+S33DFactory: 0x01A6666Bf8665978C5e70293E2bA64A09A5a5927
