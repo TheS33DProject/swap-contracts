@@ -21,8 +21,11 @@ Dependencies require `node@=12`.
 ## Deployed Contract/Hash
 
 
-### Testnet First Run
+### BSC Testnet First Run
 S33DFactory: 0x0c334Cc952135CEd1417059f6c9D5F79a4819Ac3
 
-### Testnet Final Run
+### BSC Testnet Final Run
 S33DFactory: 0x01A6666Bf8665978C5e70293E2bA64A09A5a5927
+
+### BSC Mainnet Contract
+S33DFactory: 0x6cCd3d97dbb3c57a2CEB9FA7688aFdBE7BE90f6C
